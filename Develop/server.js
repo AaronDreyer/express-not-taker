@@ -27,3 +27,24 @@ app.get('/notes', (req, res) => {
 app.get('*', (req, res) => {
     res.sendFile(path.join(__dirname, './public/index.html'));
 });
+
+function createNote(body, allNotes) {
+    const note = body;
+
+    if (!Array.isArray(allNotes)) {
+        allNotes = [];
+    }
+    if (allNotes.length === 0) {
+        allNotes.push(0);
+    }
+
+    body.id = allNotes[0];
+    allNotes[0]++;
+
+    allNotes.push(note);
+    fs.writeFileSync(
+        path.join(__dirname, './db/db.json'),
+        JSON.stringify(allNotes, null, 2)
+    );
+    return note;
+}
