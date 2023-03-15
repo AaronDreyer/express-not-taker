@@ -65,7 +65,7 @@ function deleteNote(id, allNotesArray) {
                 JSON.stringify(allNotesArray, null, 2)
             );
 
-            break;
+            return;
         }
     }
 }
