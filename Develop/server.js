@@ -48,3 +48,8 @@ function createNote(body, allNotes) {
     );
     return note;
 }
+
+app.post('/api/notes', (req, res) => {
+    const note = createNote(req.body, allNotes);
+    res.json(note);
+});
