@@ -1,0 +1,20 @@
+{
+  "name": "express-not-taker",
+  "version": "1.0.0",
+  "description": "Challenge is to create an application called Note Taker that can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AaronDreyer/express-not-taker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AaronDreyer/express-not-taker/issues"
+  },
+  "homepage": "https://github.com/AaronDreyer/express-not-taker#readme"
+}
