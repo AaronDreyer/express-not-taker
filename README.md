@@ -30,9 +30,9 @@
 
   ## [Screenshot](#table-of-contents)
 
-    ![alt text](public\assets\images\express-not-taker-NoteScreen.png)
+    ![alt text](public/assets/images/express-not-taker-StartScreen.png)
 
-    ![alt text](public\assets\images\express-not-taker-StartScreen.png)
+    ![alt text](public/assets/images/express-not-taker-NoteScreen.png)
   
   ## [Credits](#table-of-contents)
 
