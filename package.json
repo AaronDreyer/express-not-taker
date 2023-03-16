@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AaronDreyer/express-not-taker/issues"
   },
-  "homepage": "https://github.com/AaronDreyer/express-not-taker#readme"
+  "homepage": "https://github.com/AaronDreyer/express-not-taker#readme",
+  "dependencies": {
+    "inquirer": "^9.1.4"
+  }
 }

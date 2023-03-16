@@ -21,7 +21,7 @@
 
   ## [Installation](#table-of-contents)
 
-  The best way to install this project is to clone the code from my github repository to your local device. You can do this with a SSH key or the HTTPS. Once downloaded to your device, you need to have node.js and express.js installed into your codes terminal so you can operate the project.
+  The best way to install this project is to clone the code from my github repository to your local device. You can do this with a SSH key or the HTTPS. Once downloaded to your device, you need to have node.js, express.js, and the npm package installed into your codes terminal so you can operate the project.
 
   ## [Usage](#table-of-contents)
 
