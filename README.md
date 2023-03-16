@@ -30,13 +30,13 @@
 
   ## [Screenshot](#table-of-contents)
 
-    ![alt text](public/assets/images/express-not-taker-StartScreen.png)
+    ![alt text](./public/assets/images/express-not-taker-StartScreen.png)
 
-    ![alt text](public/assets/images/express-not-taker-NoteScreen.png)
+    ![alt text](./public/assets/images/express-not-taker-NoteScreen.png)
   
   ## [Credits](#table-of-contents)
 
-  THis is completed for a class so no contribution is needed.
+  This is completed for a class so no contribution is needed.
 
   
   ## [License](#table-of-contents)
