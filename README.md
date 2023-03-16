@@ -7,6 +7,7 @@
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
+  * [Screenshot](#screenshot)
   * [Credits](#credits)
   * [Tests](#tests)
   * [Questions](#questions)
@@ -26,6 +27,12 @@
   ## [Usage](#table-of-contents)
 
   To operate the project, you need to have Node.js and Express.js installed into your codes terminal platform. From here you need to ensure youre in the correct path of the code which should be "Develop". From here, you can enter "npm start" which will start express and you can view the application with the URL "localhost:3001". Now that we use Heroku. You can do the same by using "heroku open" on your device to display the page without having a local host.
+
+  ## [Screenshot](#table-of-contents)
+
+    ![Screenshot](./Develop/public/assets/images/public\assets\images\express-not-taker-NoteScreen.png)
+
+    ![Screenshot](./Develop/public/assets/images/public\assets\images\express-not-taker-StartScreen.png)
   
   ## [Credits](#table-of-contents)
 
